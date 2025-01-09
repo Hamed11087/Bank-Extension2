@@ -1,0 +1,12 @@
+﻿  #Project1-BankExtension2.cpp
+C:\C++\Level4 - 08\(42,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\C++\Level4 - 08\(176,24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\C++\Level4 - 08\(1180,35): warning C4311: '<function-style-cast>': pointer truncation from 'void (__cdecl *)(void)' to 'int'
+C:\C++\Level4 - 08\(1180,35): warning C4302: '<function-style-cast>': truncation from 'void (__cdecl *)(void)' to 'int'
+  Generating code
+C:\C++\Level4 - 08\#Project1-BankExtension2\#Project1-BankExtension2\#Project1-BankExtension2.cpp(731): warning C4715: 'DeleteUserByUsername': not all control paths return a value
+  53 of 517 functions (10.3%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    56 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  #Project1-BankExtension2.vcxproj -> C:\C++\Level4 - 08\#Project1-BankExtension2\#Project1-BankExtension2\x64\Release\#Project1-BankExtension2.exe
